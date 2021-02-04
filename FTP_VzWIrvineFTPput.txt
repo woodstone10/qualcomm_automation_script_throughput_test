@@ -1,0 +1,8 @@
+open 198.224.169.244
+ftp781
+4aTvHt*J
+bin
+hash
+bell
+put up_50Mj.zip
+bye

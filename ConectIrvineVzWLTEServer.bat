@@ -1,0 +1,1 @@
+FTP -s:FTP_VzWIrvineFTPconnect.txt

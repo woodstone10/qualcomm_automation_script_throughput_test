@@ -1,0 +1,9 @@
+open 198.224.156.244
+ftp781
+4aTvHt*J
+bin
+hash
+bell
+cd download
+get down_200M.zip
+bye

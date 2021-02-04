@@ -1,0 +1,1 @@
+FTP -s:FTP_VzWDallasFTPconnect.txt

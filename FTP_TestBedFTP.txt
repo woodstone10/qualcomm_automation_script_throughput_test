@@ -1,0 +1,9 @@
+open 125.141.31.160 
+test
+test
+bin
+hash
+bell
+cd download
+get down_10M.zip
+bye

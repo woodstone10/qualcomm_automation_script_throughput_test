@@ -1,0 +1,9 @@
+open ftp.lgmobilecomm.com
+ftpbaeg3
+ft9b@3g
+bin
+hash
+bell
+cd vk410
+get down_1M.zip
+bye
