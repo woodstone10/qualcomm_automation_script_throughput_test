@@ -7,41 +7,29 @@ During the FIT (Field Interoperability Test), the tester sometimes should captur
 ## Guide to Test - Execute to Test
 - Execute AFTS.pl     
 There are two ways to execute the test script. One is type ‘perl AFTS.pl’ on DOS console or simple double click AFTS.pl file.
-
 - Fill and Answer about some questions  
 (Q1) Type Comport number:
 (A1) Please type QXDM port number (Please refer to Step 4)
-
 (Q2) Type tshark interface number:
 (A2) Please type Wireshark port number (Please refer to Step 4)
-
 (Q3) Type Mode Name:
 (A3) Please type your device name. For example, I415, MHS291, VK410, VS880 and so on.
-
 (Q4) Type your special test condition (if not, just Type normal or Press Enter) :
 (A4) Please type the test condition. For example, normal, power-up, position_reverse and so on. You can also press Enter key if you do not want type special condition.
-
 (Q5) Select Location (1:Dallas, 2:Irvine, 3:LGTestBed, 4:ftp.lgmobilecomm.com) :
 (A5) Type 1 or 2. 1 is for Dallas LTE FTP server and 2 is for Irvine LTE FTP server.
-
 (Q6) Select Band (1:Band13, 2:Band4) :
 (A6) Type 1 or 2. 1 is for LTE Band 13 and 2 is for LTE Band 4.
-
 (Q7) Select UTM or MHS (1:UTM, 2:MHS, 3:SVLTE) :
 (A7) Type 1, 2 or 3. 1 is for USB Tethered mode, 2 is for Mobile HotSpot mode and 3 is for SVLTE mode.
-
 (Q8) Select Download or Upload (1:Download, 2:Upload) :
 (A8) Type 1 or 2. 1 is for Download test and 2 is for Upload test
-
 (Q9) Type Start Count:
 (A9) Please type the count number of starting test. You would normally type 1 as starting count.
-
 (Q10) Type End Count:
 (A10) Please type the count number of ending test. You would normally type 15 as ending count.
-
 (Q11) Do you want tcpdump log? (1:Yes, 2:No) :
 (A11) Type 1 or 2. For case of 1, ADB TCP dump log will be saved on your PC. 
-
 (Q12) Do you want tshark log? (1:Yes, 2:No) :
 (A12) Type 1 or 2. For case of 1, Wireshark log will be saved on your PC. (Please refer to Step 4 and Q2)
 
