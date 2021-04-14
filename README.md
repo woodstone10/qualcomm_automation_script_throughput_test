@@ -36,13 +36,10 @@ There are two ways to execute the test script. One is type ‘perl AFTS.pl’ on
 Example: Band 13 UTM Download Testing in Dallas market.
 ![image](https://user-images.githubusercontent.com/77954837/114701852-50062a00-9d5e-11eb-88b9-266cb989c5dc.png)
 
-- After all test are finished as you put the count (End Count A10 – Start Count A9), all logs and test results are saved in one folder which is created as following the above your answers.  
-
-The rule of making the folder name is “Location(A5)_Band(A6)_Mode(A7)_Test(A8)_Model_Name(A3)_Special_Condition(A4)”. 
+- After all test are finished as you put the count (End Count A10 – Start Count A9), all logs and test results are saved in one folder which is created as following the above your answers. The rule of making the folder name is “Location(A5)_Band(A6)_Mode(A7)_Test(A8)_Model_Name(A3)_Special_Condition(A4)”. 
 
 Example : Band 13 UTM Download Testing in Irvine market.
 ![image](https://user-images.githubusercontent.com/77954837/114701977-7330d980-9d5e-11eb-90b4-848527306ba0.png)
-
 The file with the extension of _qxdm.isf is QXDM modem log.
 The file with the extension of _tcpdump.pcap is ADB TCP dump log.
 The file with the extension of _tshark.pcap is Wireshark data log.
